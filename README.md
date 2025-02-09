@@ -1,0 +1,1 @@
+# Integra-o-do-Azure-OpenAI-Service-com-o-Semantic-Kernel
